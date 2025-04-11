@@ -1,32 +1,31 @@
 # Data Warehouse & Analytics Project
-This project demostrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights 
 
-# Project Requirements
-### Building the Data Warehouse (Data Engineering)
-#### Objective
+This project demonstrates a comprehensive data warehousing and analytics solution — from building a scalable data warehouse to generating actionable insights through business intelligence and reporting.
 
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-#### Specifications
+##  Project Requirements
 
-    **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+###  Building the Data Warehouse (Data Engineering)
 
-    **Data Quality** : Cleanse and resolve data quality issues prior to analysis.
+####  Objective
 
-    **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+Develop a modern data warehouse using **mySQL** to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-    **Scope**: Focus on the latest dataset only; historization of data is not required.
+####  Specifications
 
-    **Documentation**: Provide clear documentation of the data model to support both business stakeholders and             analytics teams.
+- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.  
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.  
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.  
+- **Scope**: Focus on the latest dataset only; historization of data is not required.  
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-### BI: Analytics & Reporting (Data Analytics)
-#### Objective
+###  BI: Analytics & Reporting (Data Analytics)
+
+####  Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-    **Customer Behavior**
+- **Customer Behavior**  
+- **Product Performance**  
+- **Sales Trends**
 
-    **Product Performance**
-
-    **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+These insights empower stakeholders with key business metrics, enabling strategic, data-driven decision-making.
